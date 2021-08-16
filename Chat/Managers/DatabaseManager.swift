@@ -22,7 +22,7 @@ class DatabaseManager {
     func getChatRooms() -> [Chat] {
         let chatRooms = [Chat]()
         
-        //TODO Retrieve chat rooms.
+        
         
         return chatRooms
     }

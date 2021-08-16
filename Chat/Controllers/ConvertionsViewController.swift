@@ -23,10 +23,10 @@ class ConversationsViewController: UIViewController,UITableViewDataSource, UITab
   
     @IBOutlet weak var tableView: UITableView!
     
-       var db: Firestore!
-        var chatRoomsArray = [Chat]()
-       var roomId: String?
-    var messages: [Message] = []
+      var db: Firestore!
+      var chatRoomsArray = [Chat]()
+      var roomId: String?
+      var messages: [Message] = []
        
        override func viewDidLoad() {
            super.viewDidLoad()

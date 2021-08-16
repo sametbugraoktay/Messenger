@@ -49,7 +49,7 @@ class LoginViewController: UIViewController {
 
        
 
-        // Add subviews
+        
         view.addSubview(scrollView)
         scrollView.addSubview(googleLogInButton)
     }
