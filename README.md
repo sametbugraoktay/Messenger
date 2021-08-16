@@ -2,7 +2,7 @@
 
 MESSENGER APP PROJECT
 
-
+Sakarya University Computer Engineering Department Graduation Project.
 
 I developed a real-time messaging mobile application using the Firebase on iOS platform.
 
@@ -22,7 +22,7 @@ The frameworks I used in this project are listed below.
 - RealmSwift
 - SDWebImage
 
-
+Screenshots:
 
 ![Screenshot](/images/s1.png)
 ![Screenshot](/images/s2.png)
