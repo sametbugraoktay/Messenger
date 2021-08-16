@@ -1,8 +1,27 @@
 # Messenger
 
-iOS 13.5 & Swift 5
+MESSENGER APP PROJECT
+
+
 
 I developed a real-time messaging mobile application using the Firebase on iOS platform.
+
+Requirements:
+
+- iOS 13.5 +
+- Swift 5+
+
+Built With: 
+
+The frameworks I used in this project are listed below.
+
+- Google Firebase
+- GoogleSignIn
+- MessageKit
+- JGProgressHUD
+- RealmSwift
+- SDWebImage
+
 
 
 ![Screenshot](/images/s1.png)
