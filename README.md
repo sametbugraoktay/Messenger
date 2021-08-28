@@ -13,7 +13,7 @@ Requirements:
 
 Built With: 
 
-The frameworks I used in this project are listed below.
+The frameworks and libraries I used in this project are listed below.
 
 - Google Firebase
 - GoogleSignIn
