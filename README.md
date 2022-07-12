@@ -15,11 +15,13 @@ Built With:
 
 The frameworks and libraries I used in this project are listed below.
 
+- MVC 
+- UIKit
+- Auto Layout
+- Storyboard
 - Google Firebase
-- GoogleSignIn
+- Firebase Authentication
 - MessageKit
-- JGProgressHUD
-- RealmSwift
 - SDWebImage
 
 Screenshots:
